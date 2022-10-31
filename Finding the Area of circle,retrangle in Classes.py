@@ -1,4 +1,4 @@
-# Finding the Area of circle,retrangle and triangle using the class
+# Finding the Area of circle,retrangle and triangle using the class.
 class Area:
 #     Constructor method that will enable us initilize the variables in the Classes
     def __init__(self,radius,length,breadth,base,height):
